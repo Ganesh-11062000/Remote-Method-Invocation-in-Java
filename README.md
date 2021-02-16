@@ -53,14 +53,14 @@ Step 3: Create Client.java
 
 
 ## Steps to compile and execute:
-1) Compile all java files
-	javac *.java
-2) Start rmi registry
-	start rmiregistry
-3) Run java Server
-	java Server
-4) Run Client
-	java Client
+1) Compile all java files<br/>
+``` javac *.java ```
+2) Start rmi registry<br/>
+```start rmiregistry```
+3) Run java Server<br/>
+```java Server```
+4) Run Client<br/>
+```java Client```
   
 
  
