@@ -46,8 +46,8 @@ Note: Here we have 2 options:
 2) Create a seperate class which will implement the remote interface and Server class will extend this class.
 
 Step 2: We will be using option 2 
-2.1 RemoteInterfaceImplementation.java
-2.2 Server.java
+ - 2.1) RemoteInterfaceImplementation.java
+ - 2.2) Server.java
 
 Step 3: Create Client.java
 
